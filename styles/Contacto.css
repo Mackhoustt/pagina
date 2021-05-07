@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav {
+    position: fixed;
+    width: 100%;
+}
+
+nav ul{
+text-align: center;
+list-style: none;
+margin-top: 25px;
+}
+nav ul li{
+    display: inline-block;
+    padding: 20px
+}
+nav ul li a {
+    text-decoration: none;
+    font-size: 24px;
+    color: white;
+}
+nav ul li a:hover{
+   border-bottom: 10px solid red;
+}
+.contenedor{
+    display: block;
+    position: absolute;
+    margin: 5%;
+}
