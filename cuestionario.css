@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.contenedor{
+    border: 20vh;
+  
+    position: absolute;
+    width: 30%;
+    background-color: lightslategray;
+}
+.salario{
+    font-size:  40px;
+    text-align: center;
+    display: inline-box;
+}
+.number{
+  
+}
+.button { 
+    
+    
+    background-color: red;
+}
+.recuadro {
+    border-radius: 20vh;
+    border-color: white double white;
+}
